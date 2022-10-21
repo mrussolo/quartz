@@ -1,5 +1,5 @@
 ---
-title: mrussolo//el blog
+title: mrussolo - el blog
 enableToc: false
 ---
 
